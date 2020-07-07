@@ -1,0 +1,7 @@
+<view class="search_input">
+    <!-- <navigator url="/pages/search/index" open-type="navigate"> 搜索 </navigator> -->
+    <input class="" value="" type="text" placeholder="搜索" placeholder-style="" placeholder-class="input-placeholder" 
+    confirm-type="search" maxlength="-1" focus="false" bindinput="" bindfocus="" bindblur="" bindconfirm="search">
+        
+    </input>
+</view>   
